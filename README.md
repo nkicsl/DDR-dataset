@@ -7,12 +7,20 @@ You can download DDR from either Baidu Drive or Google Drive, according to your 
 * DDR on Google Drive: 
 
 If you make use of the DOTA dataset, please cite our following paper:
-@article{LI2019,
+> @article{LI2019,
+
 > title = "Diagnostic Assessment of Deep Learning Algorithms for Diabetic Retinopathy Screening",
+
 > journal = "Information Sciences",
+
 > year = "2019",
+
 > issn = "0020-0255",
+
 > doi = "https://doi.org/10.1016/j.ins.2019.06.011",
+
 > url = "http://www.sciencedirect.com/science/article/pii/S0020025519305377",
+
 > author = "Tao Li and Yingqi Gao and Kai Wang and Song Guo and Hanruo Liu and Hong Kang",
+
 > }
