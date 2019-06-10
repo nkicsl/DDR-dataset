@@ -1,5 +1,6 @@
 # DDR-dataset
-A General-purpose High-quality Dataset for Diabetic Retinopathy Classification, Lesion Segmentation and Lesion Detection \
+A General-purpose High-quality Dataset for Diabetic Retinopathy Classification, Lesion Segmentation and Lesion Detection    
+
 
 You can download DDR from either Baidu Drive or Google Drive, according to your network connections.
 
