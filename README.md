@@ -5,7 +5,6 @@ A General-purpose High-quality Dataset for Diabetic Retinopathy Classification, 
 You can download DDR from either Baidu Drive or Google Drive, according to your network connections.
 
 * DDR on Baidu Drive: [DDR dataset](https://pan.baidu.com/s/1560JK2pzxTN9Ny1TcmNasQ "悬停显示")     PWD:ue0t 
-* DDR on Google Drive: [DDR dataset](https://pan.baidu.com/s/1560JK2pzxTN9Ny1TcmNasQ "悬停显示")     PWD:ue0t 
 
 If you make use of the DDR dataset, please cite our following paper:
 
