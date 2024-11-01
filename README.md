@@ -14,6 +14,13 @@ cat DDR-dataset.zip.0* > DDR-dataset.zip
 unzip DDR-dataset.zip
 ```
 
+The dataset is a zip file split into 10 chunks, and must first be combined into a single zip archive before extraction. To fully unpack the dataset:
+
+```shell
+cat DDR-dataset.zip.0* > DDR-dataset.zip
+unzip DDR-dataset.zip
+```
+
 If you make use of the DDR dataset, please cite our following paper:
 
     @article{LI2019,
