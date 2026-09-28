@@ -27,3 +27,15 @@ If you make use of the DDR dataset, please cite our following paper:
       doi = "https://doi.org/10.1016/j.ins.2019.06.011",
       url = "http://www.sciencedirect.com/science/article/pii/S0020025519305377",
     }
+
+# License
+The OIA-DDR dataset, including its images, annotations, labels, and other dataset-related materials, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+Under this license, you are free to share and adapt the dataset for non-commercial purposes, provided that:
+
+- Attribution (BY): Appropriate credit must be given to the original authors, and the corresponding DDR paper should be cited.
+- NonCommercial (NC): The dataset may not be used for commercial purposes without prior written permission from the authors.
+- ShareAlike (SA): Any adapted or derivative materials must be distributed under the same or a compatible license.
+
+For details, please refer to the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Any source code or scripts provided in this repository remain subject to the MIT License, unless otherwise stated.
+For commercial use or other permissions beyond the scope of CC BY-NC-SA 4.0, please contact the authors.
